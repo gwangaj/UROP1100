@@ -1,0 +1,5 @@
+No software needed.
+All functions are in C++11 standard library or in the source code.
+FYI: 
+Opnemp is used.
+If you want to test sequential code, you only need modify in main.cpp.
